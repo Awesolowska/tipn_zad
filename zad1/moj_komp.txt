@@ -1,4 +1,4 @@
-pojemnoœæ dysku: 167GB
-pamiêæ RAM: 8.00GB
-rodzaj i prêdkoœæ procesora: Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz  2.6GHz
+pojemnoÅ›Ä‡ dysku: 167GB
+pamiÄ™Ä‡ RAM: 8.00GB
+rodzaj i prÄ™dkoÅ›Ä‡ procesora: Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz  2.6GHz
 rodzaj systemu: 64-bitowy
